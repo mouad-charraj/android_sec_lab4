@@ -8,7 +8,7 @@
 - **APK :** `UnCrackable-Level1.apk`, version `1.0`
 - **Package :** `owasp.mstg.uncrackable1`
 - **Provenance :** Application d'entraînement OWASP MSTG / UnCrackable Level 1
-- **Outils utilisés :** JADX GUI (version non précisée), dex2jar v2.1-SNAPSHOT, JD-GUI (version non précisée)
+- **Outils utilisés :** JADX GUI , dex2jar v2.1-SNAPSHOT, JD-GUI
 
 ## Résumé exécutif
 
